@@ -30,3 +30,6 @@ The Go starter application has files as below:
 
 
 
+#K8S下Jenkins构建进行并部署
+k8s-dev.yaml
+需要修改镜像路径
