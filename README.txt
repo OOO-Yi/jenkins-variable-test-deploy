@@ -30,6 +30,7 @@ The Go starter application has files as below:
 
 
 
-#K8S下Jenkins构建进行并部署
+#K8S下Jenkins基于dockerhbu构建进行并部署，需要修改镜像路径
 k8s-dev.yaml、k8s-qa.yaml、k8s-prod.yaml
-需要修改镜像路径
+#K8S下Jenkins基于harbro构建进行并部署，需要修改镜像路径
+k8s-dev-harbor.yaml、k8s-qa-harbor.yaml、k8s-prod-harbor.yaml
